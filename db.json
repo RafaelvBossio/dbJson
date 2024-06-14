@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "id-producto": "145e5b3c3d6677d6d689beffcf6d3381",
+      "id": "145e5b3c3d6677d6d689beffcf6d3381",
       "id-user": "cmepham0",
       "nombre": "Ezy Change Mophandle",
       "descripcion": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
@@ -16,7 +16,7 @@
       "fotos": [{}]
     },
     {
-      "id-producto": "d79cea9eec57cd29a6d38f4595bda165",
+      "id": "d79cea9eec57cd29a6d38f4595bda165",
       "id-user": "smckiernan1",
       "nombre": "Tea - Herbal Sweet Dreams",
       "descripcion": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
@@ -31,7 +31,7 @@
       "fotos": [{}, {}, {}]
     },
     {
-      "id-producto": "c49d3a6460c39b5b9f0a7c2ae1154afe",
+      "id": "c49d3a6460c39b5b9f0a7c2ae1154afe",
       "id-user": "tpavlasek2",
       "nombre": "Trueblue - Blueberry",
       "descripcion": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
@@ -46,7 +46,7 @@
       "fotos": [{}, {}, {}, {}]
     },
     {
-      "id-producto": "213ec20bddd0a58c147227e23c0b74bb",
+      "id": "213ec20bddd0a58c147227e23c0b74bb",
       "id-user": "lsalvati3",
       "nombre": "Tomatoes - Orange",
       "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -61,7 +61,7 @@
       "fotos": [{}, {}, {}, {}]
     },
     {
-      "id-producto": "72992c7744824b8b7b98c97d47737230",
+      "id": "72992c7744824b8b7b98c97d47737230",
       "id-user": "jdumini4",
       "nombre": "Chicken - Breast, 5 - 7 Oz",
       "descripcion": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
@@ -76,7 +76,7 @@
       "fotos": [{}, {}]
     },
     {
-      "id-producto": "418296ee9aaab2ff60c1a4a6c53177ef",
+      "id": "418296ee9aaab2ff60c1a4a6c53177ef",
       "id-user": "tfilipov5",
       "nombre": "Turkey - Breast, Boneless Sk On",
       "descripcion": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
@@ -91,7 +91,7 @@
       "fotos": [{}]
     },
     {
-      "id-producto": "13be0b6c381400d6d22978703369f921",
+      "id": "13be0b6c381400d6d22978703369f921",
       "id-user": "kferrettini6",
       "nombre": "Scallops 60/80 Iqf",
       "descripcion": "In congue. Etiam justo. Etiam pretium iaculis justo.",
@@ -106,7 +106,7 @@
       "fotos": [{}, {}, {}, {}, {}]
     },
     {
-      "id-producto": "f2b18f8b8596f842f8191e4e7c590b90",
+      "id": "f2b18f8b8596f842f8191e4e7c590b90",
       "id-user": "scammiemile7",
       "nombre": "Doilies - 12, Paper",
       "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
@@ -121,7 +121,7 @@
       "fotos": [{}]
     },
     {
-      "id-producto": "91e9023696a75ac7b5a33c0f38ff31e1",
+      "id": "91e9023696a75ac7b5a33c0f38ff31e1",
       "id-user": "jgoatcher8",
       "nombre": "Rum - Mount Gay Eclipes",
       "descripcion": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
@@ -136,7 +136,7 @@
       "fotos": [{}]
     },
     {
-      "id-producto": "784161440a94935fe67b42c61773e109",
+      "id": "784161440a94935fe67b42c61773e109",
       "id-user": "dricciardo9",
       "nombre": "Tea Peppermint",
       "descripcion": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
@@ -151,38 +151,37 @@
       "fotos": [{}, {}, {}, {}, {}]
     }
   ],
-  "admin": [
-    {
-      "email": "admin@gmail.com",
-      "senha": "admin2024",
-      "id": "72b2"
-    }
-  ],
   "users": [
     {
-      "id-user": "clathaye0",
+      "id": "clathaye0",
+      "nivel": "admin",
       "nombre": "Cami",
       "apellido": "Lathaye",
-      "genero": "Female",
       "usuario": "clathaye0",
+      "correo": "clathaye0@gmail.com",
+      "genero": "Female",
       "productos": [{}, {}],
       "foto": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
     },
     {
-      "id-user": "mdederick1",
+      "id": "mdederick1",
+      "nivel": "user",
       "nombre": "Michel",
       "apellido": "Dederick",
-      "genero": "Male",
       "usuario": "mdederick1",
+      "correo": "mdederick1@gmail.com",
+      "genero": "Male",
       "productos": [{}, {}],
       "foto": "http://dummyimage.com/200x200.png/dddddd/000000"
     },
     {
-      "id-user": "aply2",
+      "id": "aply2",
+      "nivel": "user",
       "nombre": "Adams",
       "apellido": "Ply",
-      "genero": "Male",
       "usuario": "aply2",
+      "correo": "aply2@gmail.com",
+      "genero": "Male",
       "productos": [{}],
       "foto": "http://dummyimage.com/200x200.png/dddddd/000000"
     }
