@@ -13,7 +13,7 @@
       "puntuacion": 4,
       "stock": 240,
       "comentarios": [{}],
-      "fotos": [{}]
+      "fotos": "https://robohash.org/velitdictaenim.png?size=50x50&set=set1"
     },
     {
       "id": "d79cea9eec57cd29a6d38f4595bda165",
@@ -28,7 +28,7 @@
       "puntuacion": 5,
       "stock": 196,
       "comentarios": [],
-      "fotos": [{}, {}, {}]
+      "fotos": "https://robohash.org/animialiquidenim.png?size=50x50&set=set1"
     },
     {
       "id": "c49d3a6460c39b5b9f0a7c2ae1154afe",
@@ -43,7 +43,7 @@
       "puntuacion": 4,
       "stock": 143,
       "comentarios": [{}, {}, {}],
-      "fotos": [{}, {}, {}, {}]
+      "fotos": "https://robohash.org/corruptiveleum.png?size=50x50&set=set1"
     },
     {
       "id": "213ec20bddd0a58c147227e23c0b74bb",
@@ -58,7 +58,7 @@
       "puntuacion": 1,
       "stock": 275,
       "comentarios": [{}],
-      "fotos": [{}, {}, {}, {}]
+      "fotos": "https://robohash.org/etinciduntrem.png?size=50x50&set=set1"
     },
     {
       "id": "72992c7744824b8b7b98c97d47737230",
@@ -73,7 +73,7 @@
       "puntuacion": 4,
       "stock": 166,
       "comentarios": [{}, {}, {}, {}],
-      "fotos": [{}, {}]
+      "fotos": "https://robohash.org/maximeettenetur.png?size=50x50&set=set1"
     },
     {
       "id": "418296ee9aaab2ff60c1a4a6c53177ef",
@@ -88,7 +88,7 @@
       "puntuacion": 2,
       "stock": 170,
       "comentarios": [{}, {}, {}, {}, {}],
-      "fotos": [{}]
+      "fotos": "https://robohash.org/laborumrecusandaereprehenderit.png?size=50x50&set=set1"
     },
     {
       "id": "13be0b6c381400d6d22978703369f921",
@@ -103,7 +103,7 @@
       "puntuacion": 1,
       "stock": 90,
       "comentarios": [{}],
-      "fotos": [{}, {}, {}, {}, {}]
+      "fotos": "https://robohash.org/reprehenderitininventore.png?size=50x50&set=set1"
     },
     {
       "id": "f2b18f8b8596f842f8191e4e7c590b90",
@@ -118,7 +118,7 @@
       "puntuacion": 0,
       "stock": 56,
       "comentarios": [{}, {}],
-      "fotos": [{}]
+      "fotos": "https://robohash.org/utcupiditatevoluptatem.png?size=50x50&set=set1"
     },
     {
       "id": "91e9023696a75ac7b5a33c0f38ff31e1",
@@ -133,7 +133,7 @@
       "puntuacion": 3,
       "stock": 263,
       "comentarios": [{}, {}, {}],
-      "fotos": [{}]
+      "fotos": "https://robohash.org/etdictaexplicabo.png?size=50x50&set=set1"
     },
     {
       "id": "784161440a94935fe67b42c61773e109",
@@ -148,7 +148,7 @@
       "puntuacion": 0,
       "stock": 168,
       "comentarios": [{}, {}, {}, {}, {}],
-      "fotos": [{}, {}, {}, {}, {}]
+      "fotos": "https://robohash.org/voluptatequivoluptatem.png?size=50x50&set=set1"
     }
   ],
   "users": [
