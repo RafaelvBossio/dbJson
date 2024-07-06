@@ -161,7 +161,8 @@
       "correo": "clathaye0@gmail.com",
       "genero": "Female",
       "productos": [{}, {}],
-      "foto": "http://dummyimage.com/200x200.png/5fa2dd/ffffff"
+      "foto": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
+      "carrito": []
     },
     {
       "id": "mdederick1",
@@ -172,7 +173,8 @@
       "correo": "mdederick1@gmail.com",
       "genero": "Male",
       "productos": [{}, {}],
-      "foto": "http://dummyimage.com/200x200.png/dddddd/000000"
+      "foto": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "carrito": []
     },
     {
       "id": "aply2",
@@ -183,7 +185,8 @@
       "correo": "aply2@gmail.com",
       "genero": "Male",
       "productos": [{}],
-      "foto": "http://dummyimage.com/200x200.png/dddddd/000000"
+      "foto": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "carrito": []
     }
   ]
 }
