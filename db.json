@@ -23,7 +23,7 @@
       "precio": "$680.46",
       "categoria": "Overhead Doors",
       "genero": "F",
-      "tallas": [{"S": 12, "M": 5, "L": 10}],
+      "tallas": [{"S": 12, "M": 5, "L": 10, "XS": 5}],
       "colores": "Crimson",
       "puntuacion": 5,
       "stock": 196,
